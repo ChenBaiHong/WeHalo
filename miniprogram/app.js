@@ -96,13 +96,13 @@ App({
         userInfo: null,
         skin: null,
         roleFlag: false,
-        url: "xxx",//http://localhost:8090
-        BlogName: "xxx",
-        token: "xxx",
-        highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
-        adminOpenid: "xxx",
-        HaloUser: "xxx",
-        HaloPassword: "xxxxx"
+        url: "https://blog.chenbaihoo.com",
+        BlogName: "Cloud 微服务社",
+        token: "artLangdon",
+        highlightStyle: "tomorrow", //代码高亮样式，可用值default,darcula,dracula,tomorrow
+        adminOpenid: "o7KoG5ril9ukFDkavzmx3MxI2nhI",
+        HaloUser: "chenbaihoo",
+        HaloPassword: "CBHfuwazi08521"
     }
     
 })

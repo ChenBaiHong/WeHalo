@@ -19,7 +19,7 @@
 
         <view class="cu-item text-blue cuIcon-favorfill">
             <view class="bg-blue content shadow-blur">
-                <wh-typeWriter whContent="三十年河东，三十年河西，莫欺少年穷。"></wh-typeWriter>
+                <wh-typeWriter whContent="运气好的时候，应该脚踏实地；运气不好的时候，应该仰望星空，因为在不顺遂的时候，让内心高于生活一点点，才不至于颓废和沉沦。"></wh-typeWriter>
                 <text decode="{{true}}" space="{{true}}">&nbsp;</text>
             </view>
         </view>

@@ -10,7 +10,7 @@
     <view class="content" wx:if="{{roleFlag}}">
         <view class="cu-bar bg-white align-center margin-top">
             <view class="action border-title">
-                <text class="text-xl text-bold text-blue">Halo 仪表盘</text>
+                <text class="text-xl text-bold text-blue">仪表盘</text>
                 <text class="bg-gradual-blue" style="width:4.2rem"></text>
             </view>
         </view>

@@ -2,16 +2,16 @@
 <view class="mask" hidden="{{isHidden}}" catchtap="closeMask">
     <view class="masks" catchtap="prevent" animation="{{ani}}">
         <view class="box">
-            <image class="leftImage" mode="widthFix" src="http://yanxuan.nosdn.127.net/eb2697a360243e29fe9b7ecbb31f8112.jpg"></image>
+            <image class="leftImage" mode="widthFix" src="http://blog.chenbaihoo.com/upload/2020/08/8E50987C-884A-4AF1-AF54-D6E6DCE431A2-b5a4f79ea4df4de5b53779b431ff3a5f.jpeg"></image>
             <view class="right">
                 <view class="title">
-                    <text class="name">Aquan</text>
+                    <text class="name">ArtLangdon</text>
                 </view>
                 <view class="info">
-                    <view class="field">Email</view>
-                    <view class="value">Aquanlerou@eunji.cn</view>
+                    <view class="field">ChenBaiHong</view>
+                    <view class="value">baiHoo.chen@hotmail.com</view>
                     <view class="field">Github</view>
-                    <view class="value">https://github.com/aquanlerou</view>
+                    <view class="value">https://github.com/ChenBaiHong</view>
                 </view>
             </view>
         </view>

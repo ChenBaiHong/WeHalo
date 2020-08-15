@@ -4068,6 +4068,5 @@ scroll-view.cu-steps .cu-item {
     padding: 24rpx;
     background-repeat: no-repeat;
     background-size: contain;
-    /* background-image:url(../image/cat.png); */
-    background-image:url('xxxxx');
+    background-image:url(http://blog.chenbaihoo.com/upload/2020/08/logo-ba1fb18b30514f2a80fe8a9ecd73e6f3.png);
 }
