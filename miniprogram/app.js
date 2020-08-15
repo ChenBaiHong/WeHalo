@@ -6,7 +6,7 @@ App({
         }
         else {
             wx.cloud.init({
-                env: 'xlr-0053be',
+                env: 'artlangdon',
                 traceUser: true,
             })
         }

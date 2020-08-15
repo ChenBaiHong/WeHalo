@@ -301,9 +301,9 @@ Page({
                     var token = app.globalData.token;
                     var params = {
                         author: app.globalData.userInfo.nickName,
-                        authorUrl: "https://github.com/aquanlerou/WeHalo",
+                        authorUrl: app.globalData.userInfo.avatarUrl,
                         content: that.data.CommentContent,
-                        email: "aquanlerou@eunji.cn",
+                        email: "temp@example.com",
                         parentId: 0,
                         postId: that.data.postId,
                     };

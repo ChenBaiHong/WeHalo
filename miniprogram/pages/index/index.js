@@ -114,7 +114,7 @@ Page({
             data: {
             },
             success(res) {
-                // console.log("CloudResult:", res);
+                console.log("CloudResult:", res);
                 console.log("openidCloudResult:", res.result.openid);
                 that.setData({
                     openid: res.result.openid
@@ -221,7 +221,6 @@ Page({
                 hasUserInfo: true,
             })
             var that = this;
-            // 云函数调用
             wx.cloud.callFunction({
                 // 云函数名称
                 name: 'get_wx_context',
@@ -570,7 +569,7 @@ Page({
         return {
             title: this.data.jinrishici,
             path: '/pages/index/index',
-            imageUrl: 'https://image.aquan.run/poster.jpg',
+            imageUrl: 'https://blog.chenbaihoo.com/upload/2020/08/4614328C-3742-4279-AD79-E622AE7F6CCA-bfb7a82f90534004af879ae6dd0aaa3d.jpeg',
         }
     },
 })
